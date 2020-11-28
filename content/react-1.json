@@ -1,0 +1,149 @@
+[
+  {
+    "clue": "Decision to update the DOM",
+    "answer": "RECONCILIATION",
+    "direction": "across",
+    "x": 4,
+    "y": 7
+  },
+  {
+    "clue": "Lifecycle method that runs when rendered to the DOM",
+    "answer": "COMPONENTDIDMOUNT",
+    "direction": "down",
+    "x": 1,
+    "y": 2
+  },
+  {
+    "clue": "Direction of data flow in React",
+    "answer": "UNIDIRECTIONAL",
+    "direction": "down",
+    "x": 12,
+    "y": 5
+  },
+  {
+    "clue": "Reusable pieces of code",
+    "answer": "COMPONENTS",
+    "direction": "down",
+    "x": 8,
+    "y": 0
+  },
+  {
+    "clue": "Content between the opening and closing tags of a component",
+    "answer": "CHILDREN",
+    "direction": "down",
+    "x": 15,
+    "y": 10
+  },
+  {
+    "clue": "The building blocks of React",
+    "answer": "ELEMENTS",
+    "direction": "across",
+    "x": 6,
+    "y": 13
+  },
+  {
+    "clue": "Top-level APIs for React",
+    "answer": "REACTDOM",
+    "direction": "across",
+    "x": 12,
+    "y": 10
+  },
+  {
+    "clue": "Tool to find potential problems with additional checks and warnings",
+    "answer": "STRICTMODE",
+    "direction": "down",
+    "x": 4,
+    "y": 5
+  },
+  {
+    "clue": "The original Typechecking solution for React",
+    "answer": "PROPTYPES",
+    "direction": "across",
+    "x": 6,
+    "y": 1
+  },
+  {
+    "clue": "A component that doesn't manage its own state",
+    "answer": "STATELESS",
+    "direction": "down",
+    "x": 6,
+    "y": 9
+  },
+  {
+    "clue": "Pass data to many components at different levels",
+    "answer": "CONTEXT",
+    "direction": "down",
+    "x": 10,
+    "y": 9
+  },
+  {
+    "clue": "Return multiple children without extra DOM nodes",
+    "answer": "FRAGMENT",
+    "direction": "across",
+    "x": 12,
+    "y": 3
+  },
+  {
+    "clue": "Render children outside of the parent's DOM hierarchy",
+    "answer": "PORTAL",
+    "direction": "across",
+    "x": 8,
+    "y": 17
+  },
+  {
+    "clue": "Experimental feature for data fetching",
+    "answer": "SUSPENSE",
+    "direction": "across",
+    "x": 0,
+    "y": 16
+  },
+  {
+    "clue": "Data passed down to child components",
+    "answer": "PROPS",
+    "direction": "down",
+    "x": 18,
+    "y": 8
+  },
+  {
+    "clue": "Reusable logic outside of class components",
+    "answer": "HOOKS",
+    "direction": "down",
+    "x": 9,
+    "y": 16
+  },
+  {
+    "clue": "A function that doesn't modify its inputs",
+    "answer": "PURE",
+    "direction": "across",
+    "x": 11,
+    "y": 5
+  },
+  {
+    "clue": "Store data changes  over time",
+    "answer": "STATE",
+    "direction": "down",
+    "x": 14,
+    "y": 1
+  },
+  {
+    "clue": "Access an element directly",
+    "answer": "REF",
+    "direction": "across",
+    "x": 15,
+    "y": 15
+  },
+  {
+    "clue": "Identify unique siblings",
+    "answer": "KEY",
+    "direction": "down",
+    "x": 8,
+    "y": 12
+  },
+  {
+    "clue": "The syntax extension for writing readable React",
+    "answer": "JSX",
+    "direction": "across",
+    "x": 17,
+    "y": 12
+  }
+]
